@@ -1,0 +1,140 @@
+body
+{
+  margin:0;
+  text-align: center;
+    font-family: 'mariwhether',sans-serif;
+    color: #40514e;
+
+}
+h1{
+  margin-top: 0;
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+    padding-bottom: 10px;
+}
+h3
+{
+  color: #11999E
+}
+.c++
+{
+  image-resolution: from-image;
+}
+.top{
+    background-color:rgb(200,240,255);
+    position: relative;
+    padding-top: 100px;
+
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+.bottomcloud{
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+.topcloud{
+  position: absolute;
+  right: 140px;
+  top: 80px;
+}
+.coding{
+  padding-left: 140px;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+.contact-me
+{
+  margin: 100px auto;
+  line-height:2;
+}
+.web{
+  width: 18%;
+  float: right;
+  margin-right: 180px;
+  margin-left: 30px;
+}
+.skill-row
+{
+  line-height: 2;
+}
+.middle{
+  margin: 100px 0px;
+}
+.bottom
+{
+  background-color: rgb(200,240,255);
+  padding: 30px 30px;
+}
+a{
+  color: #11999e;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color:#eaf6f6;
+}
+.copyright{
+  color:#11999E
+  padding:20px 30px;
+  font-size:0.75rem;
+}
+.btn{
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.skill-row
+{
+  text-align: left;
+}
+
+.skill1{
+  width: 60%;
+  text-align:left;
+}
+
+.skill2{
+  width: 40%;
+  text-align:left;
+  padding-left: 28%;
+}
